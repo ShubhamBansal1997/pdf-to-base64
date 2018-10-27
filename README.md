@@ -8,10 +8,6 @@ Generate a pdf to base64, either from path or url.
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d66858b831d74e358e6ce381dd27b931)](https://www.codacy.com/app/ShubhamBansal1997/pdf-to-base64?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShubhamBansal1997/pdf-to-base64&amp;utm_campaign=Badge_Grade)
 <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/l/vue.svg" alt="License"></a>
 
-[npm-image]: https://img.shields.io/npm/v/pdf-to-base64.svg
-[npm-url]: https://npmjs.org/package/pdf-to-base64
-[downloads-image]: https://img.shields.io/npm/dm/pdf-to-base64.svg
-[downloads-url]: https://npmjs.org/package/pdf-to-base64
 
 ## About
 It was all about converting the pdf into base64 string
@@ -56,6 +52,11 @@ pdf2base64("http://www.africau.edu/images/default/sample.pdf")
 
 ### LICENSE
  [MIT](https://opensource.org/licenses/MIT)
+
+[npm-image]: https://img.shields.io/npm/v/pdf-to-base64.svg
+[npm-url]: https://npmjs.org/package/pdf-to-base64
+[downloads-image]: https://img.shields.io/npm/dm/pdf-to-base64.svg
+[downloads-url]: https://npmjs.org/package/pdf-to-base64
 
 
 

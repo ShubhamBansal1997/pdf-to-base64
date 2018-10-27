@@ -1,10 +1,10 @@
 /*
 * @Author: shubhambansal
 * @Date:   2018-10-27 06:48:33
-* @Last Modified by:   shubhambansal
-* @Last Modified time: 2018-10-27 06:58:39
+* @Last Modified by:   Shubham Bansal
+* @Last Modified time: 2018-10-27 07:35:07
 */
-const pdf2base64 = require('./../pdf-to-base64.js');
+const pdf2base64 = require("./../pdf-to-base64.js");
 const assert = require("assert");
 const pt = require("path");
 
