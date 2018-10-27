@@ -1,0 +1,42 @@
+{
+  "name": "pdf-to-base64",
+  "version": "1.0.0",
+  "description": "Generate a pdf to base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamBansal1997/pdf-to-base64.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "module convert base64 nodejs",
+    "pdf2base64",
+    "pdf-to-base64",
+    "convert-pdf-base64",
+    "convert",
+    "code",
+    "base64",
+    "pdf",
+    "webpack",
+    "loader",
+    "pdf",
+    "src",
+    "pdf src"
+  ],
+  "author": "Shubham Bansal <shubhambansal17@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShubhamBansal1997/pdf-to-base64/issues"
+  },
+  "homepage": "https://github.com/ShubhamBansal1997/pdf-to-base64#readme",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
