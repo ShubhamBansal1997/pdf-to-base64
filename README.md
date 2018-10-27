@@ -2,7 +2,7 @@
 Generate a pdf to base64, either from path or url.
 
 [![NPM Version][npm-image]][npm-url]
-[![NPM Downloads][downloads-image][downloads-image]][downloads-url]
+[![NPM Downloads][downloads-image]][downloads-url]
 [![Build Status](https://travis-ci.org/ShubhamBansal1997/pdf-to-base64.svg?branch=master)](https://travis-ci.org/ShubhamBansal1997/pdf-to-base64)
 [![devDependencies Status](https://david-dm.org/ShubhamBansal1997/pdf-to-base64/dev-status.svg)](https://david-dm.org/ShubhamBansal1997/pdf-to-base64?type=dev)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d66858b831d74e358e6ce381dd27b931)](https://www.codacy.com/app/ShubhamBansal1997/pdf-to-base64?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShubhamBansal1997/pdf-to-base64&amp;utm_campaign=Badge_Grade)
