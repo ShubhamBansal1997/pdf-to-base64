@@ -1,5 +1,5 @@
 # pdf-to-base64
-Generate a pdf to base64, either from path or url.
+Generate a base64 from pdf path or url.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
